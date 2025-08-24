@@ -37,7 +37,7 @@ To achieve this, a pre-trained **ResNet-18** model was fine-tuned for regression
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Nabham92/Fine_tune_imperviousness_predictor.git
+git clone https://github.com/Nabham92/Imperviousness_predictor.git
 cd Fine_tune_imperviousness_predictor
 pip install -r requirements.txt
 
